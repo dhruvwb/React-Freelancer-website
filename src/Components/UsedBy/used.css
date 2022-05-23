@@ -1,0 +1,39 @@
+.U{
+    display: flex;
+    height: 50px;
+    border: 2px solid darkgreen;
+    align-items: center;
+    padding: 10px;
+    margin: 5px;
+    width: 90%;
+    margin-left: 30px;
+}
+
+.U span{
+    color: #4d525b;
+    font-size: 20px;
+    line-height: 1.4;
+    font-weight: 400;
+
+}
+
+.Uimg{
+    width: 150vh;
+    height: 40px;
+    display: flex;
+    margin-right: 10px;
+    /* border: 2px solid green; */
+}
+
+.Uimg img{
+    margin-left: 40px;
+    /* border: 2px solid rgb(0, 0, 0); */
+
+}
+
+.Uhr{
+    width: 187vh;
+    /* margin-right: 10px; */
+    margin-left: 30px;
+    
+}

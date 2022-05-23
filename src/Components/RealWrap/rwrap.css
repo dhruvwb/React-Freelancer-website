@@ -1,0 +1,7 @@
+.Real{
+    /* background-color: black;
+     */
+     flex-wrap: wrap;
+     display: flex;
+     flex-direction: column;
+}

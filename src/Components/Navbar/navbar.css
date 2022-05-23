@@ -1,0 +1,68 @@
+.Nav{
+    /* border: 2px solid gray; */
+    display: flex;
+    height: 80px;
+
+}
+
+.N1{
+    display: flex;
+    top: 10px;
+    align-items: center;
+    /* border: 2px solid firebrick; */
+    width: 100%;
+    
+}
+
+.Nav ul{
+    text-decoration: none;
+    display: flex;
+    text-decoration: none;
+}
+
+.Nav li{
+    /* border: 2px solid gray; */
+    text-decoration: none;
+    list-style: none;
+    margin: 30px;
+    font-weight: 700;
+    
+}
+
+.NavLogo{
+    /* border: 2px solid rgb(185, 142, 142); */
+    height: 30px;
+    margin: 10px;
+}
+
+.NavEnd{
+    /* border: 2px solid saddlebrown;  */
+    width: 600px;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.Navbtn{
+    margin-left: 30px;
+    width: 100px;
+}
+
+
+.N2{
+    /* border: 2px solid rgb(71, 33, 33); */
+    background-color: #0E1724;
+}
+
+.N2 ul{
+    display: flex;
+    height: 40px;
+    align-items: center;
+}
+
+.N2 li{
+    color: #f7f7f7;
+    list-style: none;
+    margin: 20px;
+    cursor: pointer;
+}

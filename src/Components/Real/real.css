@@ -1,0 +1,90 @@
+.Re{
+    /* border: 2px solid firebrick; */
+    /* object-fit: contain; */
+    /* flex-wrap: wrap; */
+    /* object-fit: cover; */
+    margin-bottom: 60px;
+}
+
+.Re h2{
+    margin-top: 50px;
+    color: #0e1724;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.17;
+    margin-left: 30px;
+}
+
+.Re p{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.17;
+    margin-left: 35px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+.Re1{
+    /* border: 2px solid violet; */
+    align-items: center;
+    justify-content: center;
+    /* display: flex; */
+    /* width: 30px; */
+}
+.Re3{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Re2{
+    /* border: 2px solid #000000; */
+    margin-left: 20px;
+    min-width: fit-content;
+
+}
+
+.Re2 img{
+    width: 250px;
+    object-fit: cover;
+    height: 200px;
+    margin-left: 30px;
+
+}
+
+.Re p{
+    margin-top: 10px;
+    font-size: 24px;
+    line-height: 1.33;
+    font-weight: 700;
+    /* display: inline; */
+}
+
+.Re2 p{
+    margin-top: 20px;
+
+}
+
+.Realbtn{
+    align-items: center;
+    justify-content: center;
+        margin-top: 20px;
+    text-align: center;
+    /* border: 2px solid teal; */
+}
+
+.Realbtn button{
+    align-items: center;
+    text-align: center;
+   justify-content: center;
+   width: 20%; 
+  height: 50px; 
+    font-size: 120%;
+    background: #f20091;
+    border-color: #f20091;
+    color: #f7f7f7;
+    font-weight: 700;
+}
+
+
+.hr{
+    margin-top: 100px;
+}

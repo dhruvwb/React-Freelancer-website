@@ -1,0 +1,44 @@
+.Work{
+    /* border: 2px solid saddlebrown; */
+}
+
+.Work1{
+    border: 2px solid rgb(210, 154, 115);
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+.Work2{
+    flex-wrap: wrap;
+    border: 2px solid navy;
+    display: flex;
+    margin-top: 90px;
+}
+
+.Work2 img{
+    height: 30px;
+    width: 30px;
+    /* margin-left: 10px; */
+    left: 0;
+    position: static;
+}
+
+.Work3{
+    /* border: 2px solid firebrick; */
+    margin-left: 0;
+    display: flex;
+    margin-left: 70px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    width: 160px;
+}
+
+.Work3 p{
+    margin-left: 20px;
+    font-size: 14px;
+    line-height: 1.43;
+    font-weight: 900;
+}
+
+

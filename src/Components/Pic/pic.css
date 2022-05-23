@@ -1,0 +1,25 @@
+.Pic{
+    border: 2px solid darkblue;
+    display: flex;
+    position: relative;
+}
+
+.Pic img{
+    width: 102.91vh;
+    object-fit: cover;
+
+}
+
+.pic1{
+    position: relative;
+
+}
+
+.picsub{
+    z-index: -99;
+    position: fixed; 
+}
+
+.picsub h2{
+    color: white;
+}

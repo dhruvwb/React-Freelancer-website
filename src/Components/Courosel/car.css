@@ -1,0 +1,41 @@
+.Car{
+    /* border: 2px solid darkgoldenrod; */
+    display: flex;
+}
+
+.C2{
+    /* border: 2px solid #00008b; */
+    margin: 15px;
+    width: 60%;
+}
+
+.C2 h1{
+    font-weight: 800;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+.C2 span{
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.C3{
+    /* border: 2px solid darkgoldenrod; */
+    margin: 15px;
+    /* margin-left: 10px; */
+    
+    top: 0;
+   padding: 10px;
+    width: 50%;    
+    /* height: 10px; */
+}
+
+.C3Span{   
+    margin-top: 150px;
+    /* width: 100px;  */
+    /* border: 2px solid red; */
+    color: #00008b;
+    font-weight: 700;
+    font-size: 15px;
+}
