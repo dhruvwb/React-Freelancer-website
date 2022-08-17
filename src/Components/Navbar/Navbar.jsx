@@ -4,7 +4,7 @@ export const Navbar = () => {
   return (
     <>
       <div className="Nav">
-        <div className="N1">
+        <div className="NStart">
           <img
             src="https://www.f-cdn.com/assets/main/en/assets/freelancer-logo.svg"
             alt="Logo"

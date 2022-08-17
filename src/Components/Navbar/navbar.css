@@ -1,18 +1,28 @@
 .Nav{
-    /* border: 2px solid gray; */
+    border: 2px solid rgb(0, 0, 0);
     display: flex;
     height: 80px;
 
 }
 
-.N1{
+.NStart{
     display: flex;
     top: 10px;
     align-items: center;
-    /* border: 2px solid firebrick; */
+    border: 2px solid firebrick;
     width: 100%;
     
 }
+
+.NavEnd{
+    border: 2px solid saddlebrown; 
+    width: 600px;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+
 
 .Nav ul{
     text-decoration: none;
@@ -21,7 +31,7 @@
 }
 
 .Nav li{
-    /* border: 2px solid gray; */
+    border: 2px solid gray;
     text-decoration: none;
     list-style: none;
     margin: 30px;
@@ -29,19 +39,13 @@
     
 }
 
+
 .NavLogo{
-    /* border: 2px solid rgb(185, 142, 142); */
+    border: 2px solid rgb(185, 142, 142);
     height: 30px;
     margin: 10px;
 }
 
-.NavEnd{
-    /* border: 2px solid saddlebrown;  */
-    width: 600px;
-    display: flex;
-    align-items: center;
-    margin-right: 10px;
-}
 
 .Navbtn{
     margin-left: 30px;
@@ -50,7 +54,7 @@
 
 
 .N2{
-    /* border: 2px solid rgb(71, 33, 33); */
+    border: 2px solid rgb(71, 33, 33);
     background-color: #0E1724;
 }
 
@@ -65,4 +69,18 @@
     list-style: none;
     margin: 20px;
     cursor: pointer;
+}
+
+.Navbtn{
+    align-items: center;
+    text-align: center;
+   justify-content: center;
+   width: 30%; 
+  height: 30px; 
+    font-size: 70%;
+    background: #f20091;
+    border-color: #f20091;
+    color: #f7f7f7;
+    font-weight: 700;
+    margin-left: 10px;
 }
